@@ -1,0 +1,21 @@
+﻿<Window x:Class="DatabázeObchod.EditovatOkno"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DatabázeObchod"
+        mc:Ignorable="d"
+        Title="EditovatOkno" Height="450" Width="450">
+    <Grid>
+        <TextBox HorizontalAlignment="Center" x:Name="NovyNazev"  Margin="0,79,0,0" TextWrapping="Wrap" Height="25" Text="{Binding Nazev,Mode=OneWay}" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Center"  x:Name="NovaCena" Margin="0,217,0,0" TextWrapping="Wrap" Height="25" Text="{Binding Cena, Mode=OneWay}" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Center" x:Name="NovyPocet"  Margin="0,149,0,0" TextWrapping="Wrap" Height="25" Text="{Binding Pocet,Mode=OneWay}" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Zadejte nový název" HorizontalAlignment="Left" Margin="29,78,0,0" VerticalAlignment="Top"/>
+        <Label Content="Zadejte novou cenu " HorizontalAlignment="Left" Margin="29,212,0,0" VerticalAlignment="Top"/>
+        <Label Content="Zadejte nový počet" HorizontalAlignment="Left" Margin="32,149,0,0" VerticalAlignment="Top"/>
+        <Button Content="Zrušit" HorizontalAlignment="Left" Width="50" Height="30" Margin="73,323,0,0" VerticalAlignment="Top" Click="Button_Click"/>
+        <Button Content="Uložit" x:Name="Uloz" HorizontalAlignment="Left" Width="50" Height="30" Margin="305,323,0,0" VerticalAlignment="Top" Click="Uloz_Click"/>
+
+
+    </Grid>
+</Window>

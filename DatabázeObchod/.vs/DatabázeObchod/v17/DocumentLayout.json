@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\22ib21_marecek\\source\\repos\\Datab\u00E1zeObchod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70C97B9E-88C2-4857-B802-41FDF8018BDA}|Datab\u00E1zeObchod\\Datab\u00E1zeObchod.csproj|c:\\users\\22ib21_marecek\\source\\repos\\datab\u00E1zeobchod\\datab\u00E1zeobchod\\pridatokno.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70C97B9E-88C2-4857-B802-41FDF8018BDA}|Datab\u00E1zeObchod\\Datab\u00E1zeObchod.csproj|solutionrelative:datab\u00E1zeobchod\\pridatokno.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C97B9E-88C2-4857-B802-41FDF8018BDA}|Datab\u00E1zeObchod\\Datab\u00E1zeObchod.csproj|c:\\users\\22ib21_marecek\\source\\repos\\datab\u00E1zeobchod\\datab\u00E1zeobchod\\pridatokno.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{70C97B9E-88C2-4857-B802-41FDF8018BDA}|Datab\u00E1zeObchod\\Datab\u00E1zeObchod.csproj|solutionrelative:datab\u00E1zeobchod\\pridatokno.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C97B9E-88C2-4857-B802-41FDF8018BDA}|Datab\u00E1zeObchod\\Datab\u00E1zeObchod.csproj|c:\\users\\22ib21_marecek\\source\\repos\\datab\u00E1zeobchod\\datab\u00E1zeobchod\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70C97B9E-88C2-4857-B802-41FDF8018BDA}|Datab\u00E1zeObchod\\Datab\u00E1zeObchod.csproj|solutionrelative:datab\u00E1zeobchod\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C97B9E-88C2-4857-B802-41FDF8018BDA}|Datab\u00E1zeObchod\\Datab\u00E1zeObchod.csproj|c:\\users\\22ib21_marecek\\source\\repos\\datab\u00E1zeobchod\\datab\u00E1zeobchod\\zbozi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70C97B9E-88C2-4857-B802-41FDF8018BDA}|Datab\u00E1zeObchod\\Datab\u00E1zeObchod.csproj|solutionrelative:datab\u00E1zeobchod\\zbozi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C97B9E-88C2-4857-B802-41FDF8018BDA}|Datab\u00E1zeObchod\\Datab\u00E1zeObchod.csproj|c:\\users\\22ib21_marecek\\source\\repos\\datab\u00E1zeobchod\\datab\u00E1zeobchod\\editovatokno.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{70C97B9E-88C2-4857-B802-41FDF8018BDA}|Datab\u00E1zeObchod\\Datab\u00E1zeObchod.csproj|solutionrelative:datab\u00E1zeobchod\\editovatokno.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C97B9E-88C2-4857-B802-41FDF8018BDA}|Datab\u00E1zeObchod\\Datab\u00E1zeObchod.csproj|c:\\users\\22ib21_marecek\\source\\repos\\datab\u00E1zeobchod\\datab\u00E1zeobchod\\editovatokno.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70C97B9E-88C2-4857-B802-41FDF8018BDA}|Datab\u00E1zeObchod\\Datab\u00E1zeObchod.csproj|solutionrelative:datab\u00E1zeobchod\\editovatokno.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C97B9E-88C2-4857-B802-41FDF8018BDA}|Datab\u00E1zeObchod\\Datab\u00E1zeObchod.csproj|c:\\users\\22ib21_marecek\\source\\repos\\datab\u00E1zeobchod\\datab\u00E1zeobchod\\databaze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70C97B9E-88C2-4857-B802-41FDF8018BDA}|Datab\u00E1zeObchod\\Datab\u00E1zeObchod.csproj|solutionrelative:datab\u00E1zeobchod\\databaze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Databaze.cs",
+              "DocumentMoniker": "C:\\Users\\22ib21_marecek\\source\\repos\\Datab\u00E1zeObchod\\Datab\u00E1zeObchod\\Databaze.cs",
+              "RelativeDocumentMoniker": "Datab\u00E1zeObchod\\Databaze.cs",
+              "ToolTip": "C:\\Users\\22ib21_marecek\\source\\repos\\Datab\u00E1zeObchod\\Datab\u00E1zeObchod\\Databaze.cs",
+              "RelativeToolTip": "Datab\u00E1zeObchod\\Databaze.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T06:11:29.496Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditovatOkno.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\22ib21_marecek\\source\\repos\\Datab\u00E1zeObchod\\Datab\u00E1zeObchod\\EditovatOkno.xaml.cs",
+              "RelativeDocumentMoniker": "Datab\u00E1zeObchod\\EditovatOkno.xaml.cs",
+              "ToolTip": "C:\\Users\\22ib21_marecek\\source\\repos\\Datab\u00E1zeObchod\\Datab\u00E1zeObchod\\EditovatOkno.xaml.cs",
+              "RelativeToolTip": "Datab\u00E1zeObchod\\EditovatOkno.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T06:48:45.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditovatOkno.xaml",
+              "DocumentMoniker": "C:\\Users\\22ib21_marecek\\source\\repos\\Datab\u00E1zeObchod\\Datab\u00E1zeObchod\\EditovatOkno.xaml",
+              "RelativeDocumentMoniker": "Datab\u00E1zeObchod\\EditovatOkno.xaml",
+              "ToolTip": "C:\\Users\\22ib21_marecek\\source\\repos\\Datab\u00E1zeObchod\\Datab\u00E1zeObchod\\EditovatOkno.xaml",
+              "RelativeToolTip": "Datab\u00E1zeObchod\\EditovatOkno.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-23T06:38:28.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PridatOkno.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\22ib21_marecek\\source\\repos\\Datab\u00E1zeObchod\\Datab\u00E1zeObchod\\PridatOkno.xaml.cs",
+              "RelativeDocumentMoniker": "Datab\u00E1zeObchod\\PridatOkno.xaml.cs",
+              "ToolTip": "C:\\Users\\22ib21_marecek\\source\\repos\\Datab\u00E1zeObchod\\Datab\u00E1zeObchod\\PridatOkno.xaml.cs",
+              "RelativeToolTip": "Datab\u00E1zeObchod\\PridatOkno.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T06:25:40.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PridatOkno.xaml",
+              "DocumentMoniker": "C:\\Users\\22ib21_marecek\\source\\repos\\Datab\u00E1zeObchod\\Datab\u00E1zeObchod\\PridatOkno.xaml",
+              "RelativeDocumentMoniker": "Datab\u00E1zeObchod\\PridatOkno.xaml",
+              "ToolTip": "C:\\Users\\22ib21_marecek\\source\\repos\\Datab\u00E1zeObchod\\Datab\u00E1zeObchod\\PridatOkno.xaml",
+              "RelativeToolTip": "Datab\u00E1zeObchod\\PridatOkno.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-23T06:19:10.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Zbozi.cs",
+              "DocumentMoniker": "C:\\Users\\22ib21_marecek\\source\\repos\\Datab\u00E1zeObchod\\Datab\u00E1zeObchod\\Zbozi.cs",
+              "RelativeDocumentMoniker": "Datab\u00E1zeObchod\\Zbozi.cs",
+              "ToolTip": "C:\\Users\\22ib21_marecek\\source\\repos\\Datab\u00E1zeObchod\\Datab\u00E1zeObchod\\Zbozi.cs",
+              "RelativeToolTip": "Datab\u00E1zeObchod\\Zbozi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T06:08:33.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\22ib21_marecek\\source\\repos\\Datab\u00E1zeObchod\\Datab\u00E1zeObchod\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Datab\u00E1zeObchod\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\22ib21_marecek\\source\\repos\\Datab\u00E1zeObchod\\Datab\u00E1zeObchod\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Datab\u00E1zeObchod\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T06:07:03.087Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
